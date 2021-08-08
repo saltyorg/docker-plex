@@ -8,4 +8,4 @@ Enhancements:
 
 [Instructions](https://github.com/plexinc/pms-docker)
 
-[Credits](https://github.com/Cloudbox/docker-plex/blob/master/CREDITS.md)
+[Credits](https://github.com/saltyorg/docker-plex/blob/master/CREDITS.md)
